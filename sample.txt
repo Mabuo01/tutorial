@@ -1,2 +1,9 @@
 TTTTT
 kokokokokoko
+<<<<<<< HEAD
+=======
+KOKOKOKOKOKOKO
+>>>>>>> 323ab9ce24197bf02e646891296c4ca7d7f79194
+
+kokokoko
+
